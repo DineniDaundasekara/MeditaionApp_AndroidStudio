@@ -1,1 +1,1 @@
-this is interface design for meditation app using Kotlin 
+this is interface design for meditation app using Android Studio
