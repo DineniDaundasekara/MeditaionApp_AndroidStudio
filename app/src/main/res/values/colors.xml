@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#0000ff</color>
+    <color name="background_green">#276C57</color>
+    <color name="login_btn_green">#56AE74</color>
+    <color name="signup_btn_green">#9EB4A3</color>
+    <color name="mainlinearlay_darkgreen">#00413D</color>
+    <color name="main_dashboard">#D9D9D9</color>
+    D9D9D9
+</resources>

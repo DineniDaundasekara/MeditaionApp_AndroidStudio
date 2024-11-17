@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Meditation</string>
+    <string name="launching_btn1">Let"'"s G0</string>
+    <string name="welcome_text">WELCOME</string>
+    <string name="loginbtn">Login with E-mail</string>
+    <string name="signupbtn">do not have account yet?Sign Up</string>
+    <string name="signin_text">Sign In</string>
+    <string name="signin_para">Sign in now to access\nyour exercises and saved music.</string>
+    <string name="signin_email_hint">E-Mail Address</string>
+    <string name="signin_password_hint">Password</string>
+    <string name="signin_login_btn">Login</string>
+    <string name="signin_forgot_btn">Forgot your password?</string>
+    <string name="signup_text">Sign Up</string>
+    <string name="signup_para">Sign up now for free and start\nmeditating.and explore music.</string>
+    <string name="sigup_name_hint">Name</string>
+    <string name="sigup_email_hint">E-Mail Address</string>
+    <string name="sigup_password_hint">Password</string>
+    <string name="sigup_cpassword_hint">Confirm Password</string>
+    <string name="signup_page_btn">Sign Up</string>
+    <string name="signup_page_btn2">Have a account?SignIn</string>
+    <string name="mainhi_text">Welcome back Dineni!</string>
+    <string name="mainhi_text2">How you feel today?</string>
+    <string name="main_text3">Based on Lessons</string>
+    <string name="main_btn1">Profile</string>
+    <string name="main_btn2">Watch Now</string>
+
+    <string name="main_text4">Rekaxing Musics</string>
+    <string name="main_text5">Techniques, Benefits and a Beginner’s how to</string>
+    <string name="main_text6">Guided Meditation</string>
+    <string name="main_text7">Ready, to heal and experiance\nmore calming experiance</string>
+
+    <string name="profile_text1">Dineni Chamodya\nFrom Sri Lanka</string>
+    <string name="profile_btn1">Home</string>
+
+    <string name="music2_btn1">Music</string>
+    <string name="music1_btn0">Sleeping Musics</string>
+    <string name="music_text1">Planting Forest</string>
+    <string name="music_text2">By:Swetha Mel</string>
+    <string name="music1_btn1">PLANTING FOREST\nBy:swetha mel</string>
+    <string name="music1_btn2">CALMING ERA\nBy:swetha mel</string>
+    <string name="music1_btn3">FLOWERS\nBy:dana del</string>
+
+
+</resources>

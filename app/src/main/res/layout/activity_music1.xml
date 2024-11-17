@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/profileback"
+    tools:context=".meditaion">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginBottom="404dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/imageView14"
+                android:layout_width="145dp"
+                android:layout_height="118dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/music_music" />
+
+            <Button
+                android:id="@+id/main_btn_new2"
+                android:layout_width="179dp"
+                android:layout_height="106dp"
+                android:layout_marginStart="40dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="60dp"
+                android:layout_weight="1"
+                android:background="@color/login_btn_green"
+                android:text="@string/music1_btn1"
+                android:textColor="@color/white"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginBottom="228dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/imageView17"
+                android:layout_width="110dp"
+                android:layout_height="100dp"
+                android:layout_marginEnd="70dp"
+                app:srcCompat="@drawable/music_img5" />
+
+            <Button
+                android:id="@+id/maindash_btn_new3"
+                android:layout_width="150dp"
+                android:layout_height="100dp"
+                android:layout_marginEnd="70dp"
+                android:background="@color/signup_btn_green"
+                android:text="@string/music1_btn2" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginBottom="44dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/imageView19"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginEnd="70dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/music1ph2" />
+
+            <Button
+                android:id="@+id/main_dash_new_btn4"
+                android:layout_width="159dp"
+                android:layout_height="110dp"
+                android:layout_marginEnd="70dp"
+                android:layout_weight="1"
+                android:text="@string/music1_btn3"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:background="@drawable/sleeping"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/music1_btn1"
+            android:layout_width="198dp"
+            android:layout_height="58dp"
+            android:layout_marginStart="200dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="70dp"
+            android:background="@color/mainlinearlay_darkgreen"
+            android:text="@string/music1_btn0"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/music1_btn5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background_darkgreen"
+        android:text="@string/profile_btn1"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
