@@ -1,9 +1,9 @@
-this app interface is design using android studio.
+This app interface is design using android studio.
 
 Language and Tools for design:
 
-Android studio
-Kotlin language 
+Android studio.
+Kotlin language. 
 
 
 Description:
@@ -14,13 +14,13 @@ inner calm.
 
 Features:
 
-Personalized Playlists
-Guided Meditations
-Sleep Sounds
-Mindful Minutes
+Personalized Playlists.
+Guided Meditations.
+Sleep Sounds.
+Mindful Minutes.
 
 Language and Tools for design:
 
-Android studio
-Kotlin language 
+Android studio.
+Kotlin language. 
 
