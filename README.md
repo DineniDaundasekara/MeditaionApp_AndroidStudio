@@ -19,8 +19,4 @@ Guided Meditations.<br/>
 Sleep Sounds.<br/>
 Mindful Minutes.
 
-Language and Tools for design:<br/>
-
-Android studio.<br/>
-Kotlin language.<br/> 
 
