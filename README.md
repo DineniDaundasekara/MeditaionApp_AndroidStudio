@@ -2,7 +2,7 @@ This app interface is design using android studio.
 
 Language and Tools for design:
 
-Android studio.
+Android studio.<br/>
 Kotlin language. 
 
 
